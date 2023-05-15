@@ -25,3 +25,6 @@ I'm a Computer Science student at Oregon State University
 * Changed the EC2 instance type.
 * Tested termination protection.
 * Explored Amazon EC2 limits.
+
+
+![aws-educate-getting-started-with-compute](https://github.com/kuljotbiring/AWS-Getting-Started-with-Compute/assets/34665034/f661afbc-3482-4d15-b3a2-e12d10c931bb)
