@@ -1,5 +1,10 @@
 
 # ☁️ Getting Started with Amazon Elastic Compute Cloud (Amazon EC2)
+<p align="left">
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=aws" />
+  </a>
+</p>
 
 AWS Educate Labs
 
